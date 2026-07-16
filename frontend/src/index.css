@@ -1,0 +1,36 @@
+body{
+    background:#f5f7fa;
+}
+
+.card{
+    border-radius:15px;
+}
+
+table{
+    font-size:15px;
+}
+
+.btn{
+    border-radius:10px;
+}
+
+@media (max-width:768px){
+
+h2{
+    font-size:28px;
+    text-align:center;
+}
+
+.card h3{
+    font-size:28px;
+}
+
+.card{
+    margin-bottom:15px;
+}
+
+table{
+    font-size:13px;
+}
+
+}
